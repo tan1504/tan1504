@@ -1,3 +1,4 @@
+![MasterHead](https://trisya.com/myimg/child/soft_devlop.gif)
 <h1 align="center">Hi 👋, I'm Phan Mạnh Tân</h1>
 <h3 align="center">A passionate game developer from Vietnam</h3>
 <img  align="right"alt="Coding"width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pvd2hwM3dxNjY1b2llcHlkbTUxYm1jbXliZmtpOGh2NjZjbXRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5YpDAIRBS2xJMBoF2p/giphy.gif">
@@ -8,7 +9,6 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
